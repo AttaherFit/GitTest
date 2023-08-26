@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello friend how are you?
+=======
+Hello frien how are you?
+>>>>>>> branch1
